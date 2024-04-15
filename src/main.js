@@ -179,7 +179,7 @@ function Main() {
                 availability and delivery times and a fickle price system.
               </p>
               <p className="mb-4">
-                With Gowatr, water sourcedis of the highest quality, and is
+                With Gowatr  water sourcedis of the highest quality, and is
                 delivered through 3000 tankers on call. Be it a community of 500
                 residents or a corporate organization / industry of 1000
                 employees, Gowatr answers your call.
