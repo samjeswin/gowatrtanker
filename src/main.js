@@ -55,12 +55,12 @@ function Main() {
           <img className="logo" src={logo} alt="water tanker" />
         </h2>
       </li>
-      <button  type="button"   className="navbar-toggler me-4"  data-bs-toggle="collapse" data-bs-target="#navbarCollapse"  >
+      <button  type="button" className="navbar-toggler me-4"  data-bs-toggle="collapse" data-bs-target="#navbarCollapse"  >
         <span className="navbar-toggler-icon"></span>
       </button>
       <div className="collapse navbar-collapse" id="navbarCollapse">
         <div className="navbar-nav ms-auto p-4 p-lg-0">
-          <a className="nav-item nav-link active">Home</a>
+          <a className="nav-item nav-link active">Home</a>s
           <a  className="nav-item nav-link">Water Management</a>
           <a  className="nav-item nav-link">Company</a>
 
