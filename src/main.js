@@ -186,7 +186,7 @@ function Main() {
               </p>
               <div className="row g-2 mb-4 pb-2">
                 <div className="col-sm-6">
-                  <i className="fa fa-check text-primary me-2"></i>Easy Bookings
+                  <i className="fa fa-check text-primary me-2"></i>Easy Booking
                 </div>
                 <div className="col-sm-6">
                   <i className="fa fa-check text-primary me-2"></i>Online Tracking
